@@ -1,0 +1,15 @@
+D:\Projekty programistyczne\PPI-V2\PPI-V2\bin\Debug\net6.0\PPI-V2.exe
+D:\Projekty programistyczne\PPI-V2\PPI-V2\bin\Debug\net6.0\PPI-V2.deps.json
+D:\Projekty programistyczne\PPI-V2\PPI-V2\bin\Debug\net6.0\PPI-V2.runtimeconfig.json
+D:\Projekty programistyczne\PPI-V2\PPI-V2\bin\Debug\net6.0\PPI-V2.dll
+D:\Projekty programistyczne\PPI-V2\PPI-V2\bin\Debug\net6.0\PPI-V2.pdb
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.csproj.AssemblyReference.cache
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.AssemblyInfoInputs.cache
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.AssemblyInfo.cs
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.csproj.CoreCompileInputs.cache
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.dll
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\refint\PPI-V2.dll
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.pdb
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\PPI-V2.genruntimeconfig.cache
+D:\Projekty programistyczne\PPI-V2\PPI-V2\obj\Debug\net6.0\ref\PPI-V2.dll
